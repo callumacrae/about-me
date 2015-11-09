@@ -1,0 +1,12 @@
+{
+  "name": "callumacrae",
+  "version": "0.1.0",
+  "description": "Callum Macrae. Always a WIP.",
+  "main": "index.js",
+  "repository": "callumacrae/npm",
+  "author": "Callum Macrae <callum@macr.ae>",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cat me.json"
+  }
+}
