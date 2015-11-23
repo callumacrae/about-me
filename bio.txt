@@ -1,1 +1,1 @@
-Callum Macrae is a JavaScript developer and occasional musician based in London, UK and working at personalised children's publishing startup Lost My Name. He regularly contributes to open source and is the author of Learning from jQuery.
+Callum Macrae is a JavaScript developer and occasional musician based in London, UK, working at personalised children's publishers Lost My Name. He regularly contributes to open source and is the author of Learning from jQuery.
