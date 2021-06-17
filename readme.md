@@ -14,7 +14,6 @@
 
 ## Employer
 
-- Company name: Currently working as a contractor
-- Job Title: Senior Front-end Developer
-- Website: 
-- Logo:
+N/A - I'm contracting now!
+
+"Author of Vue.js: Up and Running" works in place of a company name sometimes.
